@@ -1,4 +1,5 @@
 print("let's play paper, scissor and rock")
+#counters
 a = 0
 b = 0
 c = 0
