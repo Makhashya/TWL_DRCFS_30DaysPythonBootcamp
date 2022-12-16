@@ -43,7 +43,7 @@ def fun_rank(password: str) -> str:
     #print(rank)             
     return rank 
 def option_1(FILE: str) -> int:
-    with open("Week 2\\Assignments\\user-pwds.txt",'r') as file:
+    with open(FILE,'r') as file:
         file1 = open("Week 2\\Assignments\\user-pwds-checked.txt","w")
         password1 = file.readlines()
         print(password1)
