@@ -1,0 +1,5 @@
+Ujwal,Makhashya@123,strong
+Shristi,Shristi123,moderate
+Laxmi,Laxmi,poor
+Nilkamala,chorachori,poor
+Sundar,Sundar,poor
